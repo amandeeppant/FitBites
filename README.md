@@ -11,3 +11,6 @@ Workout Tracker: Log and track daily workout routines.
 Diet Planner: Create personalized meal plans.
 Progress Monitoring: Visual representation of fitness achievements.
 User-friendly UI: Modern and interactive design using CustomTkinter.
+
+
+Note that the main file is "Fitbites_final.py" in case user cant't figure out.
